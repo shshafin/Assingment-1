@@ -203,3 +203,27 @@ figcaption{
     padding-top: 10px;
 }
 /* ****sales end**** */
+
+
+/* ****instagram start**** */
+.instagram{
+ margin-bottom: 100px;
+}
+.insta_head{
+    text-align: center;
+}
+.insta_detail{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    max-width: 650px;
+}
+.insta_image{
+    display: flex;
+    align-items: center;
+    padding: 0 220px;
+}
+/* ****instagram end**** */
